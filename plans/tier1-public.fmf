@@ -1,0 +1,5 @@
+/tier1-public:
+  plan:
+    import:
+      url: https://gitlab.com/redhat/centos-stream/tests/postgresql
+      name: /plans/versioned/postgresql18/libecpg
